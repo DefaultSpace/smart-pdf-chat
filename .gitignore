@@ -130,3 +130,9 @@ cython_debug/
 
 # VSCode settings
 .vscode/
+
+# Generated database
+vectordb/
+
+# Data files (if not meant to be version controlled)
+data/
